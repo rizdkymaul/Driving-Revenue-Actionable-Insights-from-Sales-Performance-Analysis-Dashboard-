@@ -10,7 +10,7 @@
 
 ![alt text](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/blob/main/img/thumbnails.jpg)
 
-[Presentation Video](https://www.youtube.com/watch?v=Zrd2Wl_mRnM)
+[Presentation Video](https://youtu.be/-ql_xwumSA8)
 
 [4 Dataset](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/tree/main/dataset "4 Dataset")
 

@@ -8,6 +8,9 @@
 
 **By Muhammad Rizdky Maulady**
 
+![alt text](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/blob/main/img/thumbnails.jpg)
+
+[Presentation Video](https://www.youtube.com/watch?v=Zrd2Wl_mRnM)
 
 [4 Dataset](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/tree/main/dataset "4 Dataset")
 
@@ -56,12 +59,12 @@ Primary key : CategoryID
 ● One to Many (CustomerID c to  CustomerID o)
 
 2. Products (p) to Orders (o)
-    
-● One to Many (ProdNumber o to ProdNumber p)
-
-4. Products (p) to Product Category (pc)
    
-● Many to One (ProdNumber o to ProdNumber p﻿)
+● One to Many (ProdNumber p to ProdNumber o)
+
+5. Products (p) to Product Category (pc)
+   
+● Many to One (Category p to CategoryID pc﻿)
 
 # Query Create Master Table
 
@@ -103,62 +106,62 @@ Develop a bundling strategy that combines products from the "Robots" category wi
 
 ● Product Offering Diversification
 
-The "Robots" category dominates sales revenue. While this is a positive trend, it is important to remain cautious, especially given the decline in sales from 2020 to 2021. This downturn could significantly impact overall company revenue. Therefore, it is crucial to focus on other categories. This year, we can intensify promotions and campaigns for the "Drones" category, which has shown potential to offset the revenue decline from the "Robots" category.
+The "Robots" category dominates sales revenue. While this is a positive aspect, it should be approached with caution, especially given the decline in sales from 2020 to 2021. This decrease could have a significant impact on the company's revenue. Therefore, it is essential to focus on other categories. This year, we can intensify promotions or campaigns for the "Drones" category, which has shown potential to offset the revenue decline from the "Robots" category.
 
 `Actionable Insight`
 
-Enhance promotions and marketing campaigns for the "Drones" category to drive sales growth. Develop compelling marketing strategies, such as exclusive discounts or product bundling, to capture customer interest and offset the revenue decline from the "Robots" category.
+Focus on product offering diversification by enhancing promotions and campaigns for the "Drones" category. Design engaging marketing strategies, such as special discounts or product bundling, to capture customer attention and offset the revenue decline from the "Robots" category.
 
 ![alt text](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/blob/main/img/weakness%202.jpg)
 
-● Cross-Selling & Upselling
+● Strong Correlation with eBooks and Blueprints
 
-Leverage existing customers by offering products from the "eBooks" and "Blueprints" categories when they purchase items from the "Robots" category. This strategy can be implemented through SEO-driven product recommendations on e-commerce platforms, websites, or targeted email marketing campaigns.
+There is a strong relationship between the "eBooks" and "Blueprints" categories with "Robots" and "Drones." This is evident from the sales characteristics of the "eBooks" and "Blueprints" categories, where the products are books and blueprints that have titles related to robots and drones.
 
-● Product Bundling
+● Customer Purchasing Patterns Across Diverse Products
 
-Develop a bundling strategy that provides attractive options for new customers purchasing products in the "Robots" and "Drones" categories. Offer special deals when bundled with products from the "eBooks" and "Blueprints" categories. This approach enhances the overall shopping experience while boosting sales in the "eBooks" and "Blueprints" categories.
+It is observed that customer psherrot made 4 transactions with a variety of products, specifically "Robots" and "Blueprints," while customer sdixceekl made 7 transactions with a broader range of products, including "eBooks," "Training Videos," and "Drones Kits."
 
 `Actionable Insight`
 
-Design an effective cross-selling and upselling strategy with SEO-based product recommendations on e-commerce platforms and email marketing campaigns. Additionally, create attractive bundling packages for new customers shopping in the Robots and Drones categories, offering incentives such as discounts or bonus products to increase transaction value.
+Develop effective cross-selling and upselling strategies with SEO-based product recommendations on the e-commerce platform and through email marketing campaigns. Additionally, create attractive bundling packages for new customers purchasing products in the "Robots" and "Drones" categories. Offer appealing options when bundling with products from the "eBooks" and "Blueprints" categories, such as discounts or bonus packages. This approach will enhance the shopping experience for our customers and increase sales in the "eBooks" and "Blueprints" categories.
 
 `3. Opportunities`
 
 ![alt text](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/blob/main/img/opportunities.jpg)
 
-● Launch New Products
+● Washington: The Best Distribution City
 
-Leverage sales distribution in the Washington area to launch new products. This can create new opportunities to drive company sales growth.
+Sales distribution in the Washington area is excellent, showing the highest order quantity and sales for the company. This presents new opportunities for increasing the company's sales.
 
-● Expand Promotional Strategies
+● Promising Cities for Expansion
 
-Optimize promotional strategies in regions with order volumes between 100 and 200 and total sales ranging from $20,000 to $30,000 USD. Cities such as Houston, Miami, El Paso, and Birmingham present the most promising markets for sales expansion.
+Analyzing the distribution of order quantities between 100 and 200, with total sales ranging from $20,000 to $30,000 USD, cities such as Houston, Miami, El Paso, and Birmingham emerge as the most promising markets for sales expansion.
 
-● With a diverse product lineup, there is a significant opportunity to enhance and expand promotional efforts. Utilize digital marketing strategies to drive this sales expansion effectively.
+● Given the geographical spread of these distribution areas, it is crucial to leverage digital marketing for this sales expansion.
 
 `Actionable Insight`
 
-Leverage these regions to introduce new products. Additionally, optimize promotional strategies in cities with order volumes between 100 and 200 and total sales of approximately $20,000 to $30,000 USD, such as Houston, Miami, El Paso, and Birmingham. Design compelling and relevant marketing campaigns to capture customer attention in these markets.
+Leverage the Washington area to introduce new products. Additionally, optimize promotional strategies in cities with order quantities between 100 and 200 and total sales ranging from $20,000 to $30,000 USD, such as Houston, Miami, El Paso, and Birmingham. Design engaging and relevant marketing campaigns to capture the attention of customers in these markets.
 
 4. Threats
 
 ![alt text](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/blob/main/img/threatness.jpg)
 
-● Leveraging Customer Loyalty to Stay Competitive
+● Utilizing Customer Loyalty to Stay Competitive
 
-Customer sdixceekl has the highest loyalty score (7) but a relatively low total purchase amount ($236). In contrast, customer hfaulconerbv has a loyalty score of 6 with a significantly higher total purchase amount ($1,611). This indicates that some customers, despite not having the highest loyalty scores, still make a substantial contribution to revenue.
+Customer sdixceekl has the highest loyalty score (7) but relatively low total purchases ($1,649). In contrast, customer hfaulconerby has a loyalty score of 6 with significantly higher total purchases ($9,666), while customer aduberryoq has a loyalty score of 4 with a more balanced total purchase amount ($7,670). This indicates that some customers with lower loyalty scores still contribute significantly to revenue.
 
 ` Actionable Insight`
 
 ● Gamified Loyalty Program
 
-Develop a gamified loyalty program with tiers, reward points, badges, and challenges. Integrate it with a mobile app for easy access and higher engagement. Offer attractive rewards and opportunities to redeem points for products or discounts.
+Create a gamified loyalty program featuring tiers, reward points, badges, and challenges. Integrate it with a mobile app for easy access and higher engagement. Offer attractive rewards and opportunities to redeem points for products or discounts.
 
 ● User-Generated Content & Influencer Marketing
 
-Encourage customers to create content about products (e.g., reviews, photos, videos) and provide incentives. Partner with micro-influencers relevant to the target market to boost brand awareness and social proof.
+Collaborate with customers and micro-influencers to encourage content creation around our products, which can enhance brand awareness and social proof.
 
 ● Exclusive Community for Top Customers
 
-Create an exclusive online community (e.g., Facebook groups, Discord) or offline events for top customers. Provide exclusive access to content, new products, and opportunities to interact with the company. This will strengthen loyalty and brand advocacy.
+Establish an exclusive online community (e.g., Facebook group, Discord) or offline events for top customers. Provide exclusive access to content, new products, and opportunities to interact with the company. This will foster loyalty and brand advocacy.

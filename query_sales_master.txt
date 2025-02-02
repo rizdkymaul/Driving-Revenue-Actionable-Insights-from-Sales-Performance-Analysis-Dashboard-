@@ -1,0 +1,32 @@
+WITH TotalKuantitas AS ( -- Membuat Common Table Expression (CTE)
+    SELECT
+        o."Date" AS order_date,  -- Mengambil tanggal dari tabel orders
+        pc."CategoryName" AS category_name,  -- Mengambil nama kategori dari tabel product_category
+        p."ProdName" AS product_name,  -- Mengambil nama produk dari tabel products
+        p."Price" AS product_price,  -- Mengambil harga produk dari tabel products
+        o."Quantity" AS order_qty,  -- Mengambil jumlah produk yang dipesan dari tabel orders
+        (p."Price" * o."Quantity") AS total_sales,  -- Menghitung total penjualan (harga x jumlah)
+        c."CustomerEmail" AS cust_email,  -- Mengambil email pelanggan dari tabel customers
+        c."CustomerCity" AS cust_city  -- Mengambil kota pelanggan dari tabel customers
+    FROM
+        "orders" AS o  -- Alias untuk tabel orders
+    JOIN
+        "customers" AS c ON o."CustomerID" = c."CustomerID"  -- Menggabungkan tabel customers berdasarkan CustomerID
+    JOIN
+        "products" AS p ON o."ProdNumber" = p."ProdNumber"  -- Menggabungkan tabel products berdasarkan ProdNumber
+    JOIN
+        "product_category" AS pc ON p."Category" = pc."CategoryID"  -- Menggabungkan tabel product_category berdasarkan CategoryID
+)
+SELECT
+    order_date, 
+    category_name, 
+    product_name, 
+    product_price, 
+    order_qty, 
+    total_sales, 
+    cust_email, 
+    cust_city
+FROM
+    TotalKuantitas  -- Menggunakan hasil CTE
+ORDER BY
+    order_date ASC, order_qty ASC;  -- Mengurutkan berdasarkan tanggal dan jumlah pesanan secara ascending

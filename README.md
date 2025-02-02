@@ -102,6 +102,7 @@ Develop a bundling strategy that combines products from the "Robots" category wi
 ![alt text](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/blob/main/img/weakness.jpg)
 
 ● Product Offering Diversification
+
 The "Robots" category dominates sales revenue. While this is a positive trend, it is important to remain cautious, especially given the decline in sales from 2020 to 2021. This downturn could significantly impact overall company revenue. Therefore, it is crucial to focus on other categories. This year, we can intensify promotions and campaigns for the "Drones" category, which has shown potential to offset the revenue decline from the "Robots" category.
 
 `Actionable Insight`
@@ -127,9 +128,11 @@ Design an effective cross-selling and upselling strategy with SEO-based product 
 ![alt text](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/blob/main/img/opportunities.jpg)
 
 ● Launch New Products
+
 Leverage sales distribution in the Washington area to launch new products. This can create new opportunities to drive company sales growth.
 
 ● Expand Promotional Strategies
+
 Optimize promotional strategies in regions with order volumes between 100 and 200 and total sales ranging from $20,000 to $30,000 USD. Cities such as Houston, Miami, El Paso, and Birmingham present the most promising markets for sales expansion.
 
 ● With a diverse product lineup, there is a significant opportunity to enhance and expand promotional efforts. Utilize digital marketing strategies to drive this sales expansion effectively.
@@ -143,15 +146,19 @@ Leverage these regions to introduce new products. Additionally, optimize promoti
 ![alt text](https://github.com/rizdkymaul/Driving-Revenue-Actionable-Insights-from-Sales-Performance-Analysis-Dashboard-/blob/main/img/threatness.jpg)
 
 ● Leveraging Customer Loyalty to Stay Competitive
+
 Customer sdixceekl has the highest loyalty score (7) but a relatively low total purchase amount ($236). In contrast, customer hfaulconerbv has a loyalty score of 6 with a significantly higher total purchase amount ($1,611). This indicates that some customers, despite not having the highest loyalty scores, still make a substantial contribution to revenue.
 
 ` Actionable Insight`
 
 ● Gamified Loyalty Program
+
 Develop a gamified loyalty program with tiers, reward points, badges, and challenges. Integrate it with a mobile app for easy access and higher engagement. Offer attractive rewards and opportunities to redeem points for products or discounts.
 
 ● User-Generated Content & Influencer Marketing
+
 Encourage customers to create content about products (e.g., reviews, photos, videos) and provide incentives. Partner with micro-influencers relevant to the target market to boost brand awareness and social proof.
 
 ● Exclusive Community for Top Customers
+
 Create an exclusive online community (e.g., Facebook groups, Discord) or offline events for top customers. Provide exclusive access to content, new products, and opportunities to interact with the company. This will strengthen loyalty and brand advocacy.
